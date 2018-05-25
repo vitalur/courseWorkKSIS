@@ -1,0 +1,17 @@
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/courses.exe
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/courses.pdb
+/home/vita/Projects/c#/new/courses/courses/obj/x86/Debug/courses.csprojResolveAssemblyReference.cache
+/home/vita/Projects/c#/new/courses/courses/obj/x86/Debug/courses.csproj.CoreCompileInputs.cache
+/home/vita/Projects/c#/new/courses/courses/obj/x86/Debug/courses.exe
+/home/vita/Projects/c#/new/courses/courses/obj/x86/Debug/courses.pdb
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/courses.exe.config
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/EntityFramework.dll
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/EntityFramework.SqlServer.dll
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/Google.Protobuf.dll
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/MySql.Data.dll
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/MySql.Data.Entity.EF6.dll
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/EntityFramework.xml
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/EntityFramework.SqlServer.xml
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/MySql.Data.Entity.EF6.xml
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/Google.Protobuf.xml
+/home/vita/Projects/c#/new/courses/courses/bin/Debug/MySql.Data.xml
